@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\drawable_ic_pause.xml.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\drawable_s.jpg.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\drawable\\s.jpg"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.spiritual.hub.app-release-60:/drawable_s.webp.flat",
+        "source": "com.spiritual.hub.app-main-61:/drawable/s.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\drawable_ic_stop.xml.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\drawable\\ic_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\drawable_splash_screen.xml.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\drawable\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\raw_hanuman_chalisa.mp3.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\raw\\hanuman_chalisa.mp3"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\font_kalambold.ttf.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\font\\kalambold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-release-60:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\offic\\.gradle\\daemon\\8.11.1\\com.spiritual.hub.app-main-61:\\drawable\\ic_launcher_foreground.xml"
+    }
+]

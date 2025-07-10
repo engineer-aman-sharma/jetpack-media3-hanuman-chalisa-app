@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.spiritual.hub.app-mergeReleaseResources-58:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\offic\\.gradle\\caches\\8.11.1\\transforms\\43d4dccce4dd465e15d51fb6786434f4\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
