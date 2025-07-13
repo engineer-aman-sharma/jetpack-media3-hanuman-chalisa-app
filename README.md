@@ -51,10 +51,10 @@ I built the **entire project myself** — focusing on clean structure and modern
 ### 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1SplashScreen.jpg" width="230"/>
-  <img src="screenshots/2-MainScreen.jpg" width="230"/>
-  <img src="screenshots/3-MainScreen.jpg" width="230"/>
-  <img src="screenshots/4-Notification.jpg" width="230"/>
+  <img src="screenshots/1SplashScreen.png" width="230"/>
+  <img src="screenshots/2-MainScreen.png" width="230"/>
+  <img src="screenshots/3-MainScreen.png" width="230"/>
+  <img src="screenshots/4-Notification.png" width="230"/>
 </p>
 
 ---
